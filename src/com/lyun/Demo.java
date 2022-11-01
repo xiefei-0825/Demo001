@@ -6,7 +6,7 @@ public class Demo {
         System.out.println("加油努力！");
         System.out.println("好好学习 天天向上");
         System.out.println("Good");
-        System.out.println("测试");
+        System.out.println("moring");
 
     }
 }
